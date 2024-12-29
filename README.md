@@ -13,9 +13,6 @@ This project is a Python program that generates secure random passwords. The pro
 3. Run the script using the following command:
 python password_generator.py
 
-markdown
-Copy code
-
 ## Features
 - Interactive input for password length.
 - Secure randomness using the Python `random` module.
