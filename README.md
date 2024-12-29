@@ -34,6 +34,7 @@ Copy code
 - Generates passwords with a balanced mix of character types.
 
 ## Example Output
-Welcome to the Random Password Generator! Enter the desired password length (minimum 4): 12 Your generated password is: Xz@9B&k7W2$a
+Welcome to the Random Password Generator! Enter the desired password length (minimum 4): 12 
+Your generated password is: Xz@9B&k7W2$a
 
 
